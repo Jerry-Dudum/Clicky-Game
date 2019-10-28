@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Meliodas",
+        "image": "https://vignette.wikia.nocookie.net/nanatsu-no-taizai/images/e/e1/Meliodas_anime_full_appearance_2.png/revision/latest/scale-to-width-down/270?cb=20140913055357",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Ban",
+        "image": "https://vignette.wikia.nocookie.net/nanatsu-no-taizai/images/e/e3/Ban_anime_full_appearance.png/revision/latest/scale-to-width-down/180?cb=20150124133509",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Diane",
+        "image": "https://vignette.wikia.nocookie.net/nanatsu-no-taizai/images/5/5e/Diane_anime_full_appearance.png/revision/latest/scale-to-width-down/220?cb=20150130020505",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "King",
+        "image": "https://vignette.wikia.nocookie.net/nanatsu-no-taizai/images/c/cb/King_anime_full_appearance.png/revision/latest/scale-to-width-down/220?cb=20150124133503",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Gowther",
+        "image": "https://cdn.imgbin.com/6/24/14/imgbin-sir-gowther-the-seven-deadly-sins-mortal-sin-anime-seven-deadly-sins-DfuGWZjFpN1w4VQKsKRXZTHPy.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Merlin",
+        "image": "https://vignette.wikia.nocookie.net/nanatsu-no-taizai/images/3/3c/Merlin_full_appearance_Anime.png/revision/latest?cb=20171223205813",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Escanor",
+        "image": "https://vignette.wikia.nocookie.net/unisonleague/images/0/0e/Gear--Seven_Deadly_Sins-_Escanor_Render.png/revision/latest?cb=20180515202319",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Elizabeth",
+        "image": "https://vignette.wikia.nocookie.net/nanatsu-no-taizai/images/6/63/Elizabeth_anime_full_appearance_2.png/revision/latest/scale-to-width-down/240?cb=20140913055216",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Hawk",
+        "image": "https://vignette.wikia.nocookie.net/nanatsu-no-taizai/images/2/29/Hawk_anime_full_appearance_2.png/revision/latest/scale-to-width-down/270?cb=20140913055454",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Elaine",
+        "image": "https://vignette.wikia.nocookie.net/nanatsu-no-taizai/images/4/4e/Elaine_Anime.png/revision/latest/scale-to-width-down/270?cb=20141201091125",
+        "clicked": false
+    }
+]
