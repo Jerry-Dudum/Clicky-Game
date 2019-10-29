@@ -1,14 +1,14 @@
 import React from "react";
 import "./style.css";
 
-function Navbar(props) {
+function Header(props) {
     return (
         <nav className="navbar">
-            <div className="text-center">Clicky Game</div>
-            <div className="text-center">{props.info}</div>
-            <div className="text-center">Score: {props.score} Highscore: {props.highScore}</div>
+            <div className="spacing text-center">Clicky Game</div>
+            <div className="spacing text-center">{props.info}</div>
+            <div className="spacing text-center">Score: {props.score} Highscore: {props.highScore}</div>
         </nav>
     );
 }
 
-export default Navbar;
+export default Header;

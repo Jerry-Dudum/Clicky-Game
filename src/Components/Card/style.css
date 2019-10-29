@@ -1,0 +1,9 @@
+.character-image {
+    height: 200px;
+    width: 160px
+}
+
+.character-card {
+    margin: 20px;
+    border: 10px solid black;
+}

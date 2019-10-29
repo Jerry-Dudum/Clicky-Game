@@ -1,0 +1,15 @@
+h1 {
+    font-size: 36px;
+    color: black;
+}
+
+h2 {
+    font-size: 22px;
+    color: black;
+    margin: 0px;
+}
+
+.description {
+    margin-top: 100px;
+    background-color: lightcoral;
+}

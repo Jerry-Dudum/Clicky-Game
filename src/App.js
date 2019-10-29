@@ -3,6 +3,7 @@ import Header from './components/Header';
 import Wrapper from './components/Wrapper';
 import Card from './components/Card';
 import characters from "./cardinfo.json";
+import Description from './components/Description';
 
 class App extends React.Component {
 
@@ -43,7 +44,7 @@ class App extends React.Component {
                     highScore: this.state.highScore + 1
                 });
             }
-            if (this.state.score + 1 === 12) {
+            if (this.state.score + 1 === 10) {
                 this.win();
             }
             else {
@@ -62,6 +63,7 @@ class App extends React.Component {
         return (
             <div>
                 <Header info={this.state.info} score={this.state.score} highScore={this.state.highScore} />
+                <Description />
                 <Wrapper>
                     {this.state.characters.map((character) => (
                         <Card
